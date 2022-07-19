@@ -2,8 +2,9 @@
 
 <!-- here are information that who i am-->
 ```python
-var_edad= 20
+
 def introduce():
+    var_edad = 20
     print(f" I am young man with {var_edad} years age \n
           - My Full name: Eli-ezer Reuven Ramirez Ruiz 🧔 \n
           - Pronouns: Eli \n
