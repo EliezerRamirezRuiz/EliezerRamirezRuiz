@@ -1,10 +1,15 @@
 # print("Hello everyone, I'm Eli-ezer Ramirez")   <sub> *Blog Personal* </sub>
 
 <!-- here are information that who i am-->
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+```python
+var_edad= 20
+def introduce():
+    print(f" I am young man with {var_edad} years age \n
+          - My Full name: Eli-ezer Reuven Ramirez Ruiz 🧔 \n
+          - Pronouns: Eli \n
+          - I live in Santiago de Chile, commune Puente Alto (🇨🇱) \n
+          - I am ingenier informatic Stundent at Duoc UC 💻")
+introduce
 ```
 
 
