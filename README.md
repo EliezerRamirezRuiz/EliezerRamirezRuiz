@@ -4,13 +4,12 @@
 ```python
 
 def introduce():
-    var_edad = 20
-    print(f" I am young man with {var_edad} years age \n
-          - My Full name: Eli-ezer Reuven Ramirez Ruiz 🧔 \n
-          - Pronouns: Eli \n
-          - I live in Santiago de Chile, commune Puente Alto (🇨🇱) \n
-          - I am ingenier informatic Stundent at Duoc UC 💻")
-introduce
+    var_info = print(f" I am young man with 20 years age \n
+                     - My Full name: Eli-ezer Reuven Ramirez Ruiz 🧔 \n
+                     - Pronouns: Eli \n
+                     - I live in Santiago de Chile, commune Puente Alto (🇨🇱) \n
+                     - I am ingenier informatic Stundent at Duoc UC 💻")
+    return var_info
 ```
 
 
