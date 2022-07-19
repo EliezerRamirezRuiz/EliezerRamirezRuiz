@@ -4,12 +4,10 @@
 
 <!-- here are information that who i am-->
 ## Who am I?
-´´´
 - I am young man with 20 years age 🍃
 - My Full name: Eli-ezer Reuven Ramirez Ruiz 🧔
 - I live in Santiago de Chile, commune Puente Alto (🇨🇱) 
 - I am ingenier informatic Stundent at Duoc UC 💻.
-´´´
 
 ## More about me...
 
