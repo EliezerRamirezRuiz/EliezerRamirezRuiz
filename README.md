@@ -1,11 +1,11 @@
 # print("Hello everyone, I'm Eli-ezer Ramirez")   <sub> *Blog Personal* </sub>
 
 <!-- here are information that who i am-->
-'''
-
-print("hello world")
-
-'''
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 
 
