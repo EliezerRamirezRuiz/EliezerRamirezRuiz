@@ -11,8 +11,8 @@
 
 ## More about me...
 
-> - I am studyng FullStack in a Bootcamp for separate from mi formation Academic.
-> - until now, I don't have experience like informatic iun any jobs.
+>- I am studyng FullStack in a Bootcamp for separate from mi formation Academic.
+>- until now, I don't have experience like informatic iun any jobs.
 
 
 ## Collaboration
