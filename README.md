@@ -1,6 +1,5 @@
 # print("Hello everyone, I'm Eli-ezer Ramirez")   <sub> *Blog Personal* </sub>
 
-## About me
 <!-- here are information that who i am-->
 ### Who am I?
 
@@ -10,6 +9,7 @@
 - I live in Santiago de Chile, commune Puente Alto (🇨🇱) 
 - I am ingenier informatic Stundent at Duoc UC 💻.
 
+## more about me
 <!-- what i am learning -->
 ### What I'm learning now?
 Well, in this moment I am learning a route FullStack about Web Development.
