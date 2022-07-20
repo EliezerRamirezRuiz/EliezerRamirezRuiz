@@ -1,6 +1,8 @@
 # print("Hello everyone, I'm Eli-ezer Ramirez")   <sub> *Blog Personal* </sub>
 
 <!-- here are information that who i am-->
+### Who am I?
+
 ```python
 
 def introduce():
@@ -11,17 +13,6 @@ def introduce():
                      - I am ingenier informatic Stundent at Duoc UC 💻")
     return var_info
 ```
-
-
-
-
-### Who am I?
-
-- I am young man with 20 years age 🍃
-- My Full name: Eli-ezer Reuven Ramirez Ruiz 🧔
-  - Pronouns: Eli 
-- I live in Santiago de Chile, commune Puente Alto (🇨🇱) 
-- I am ingenier informatic Stundent at Duoc UC 💻.
 
 ## more about me
 <!-- what i am learning -->
