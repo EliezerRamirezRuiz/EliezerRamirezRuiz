@@ -1,9 +1,9 @@
-![banner_eli-ezer](https://user-images.githubusercontent.com/83837915/180123868-c13208a0-7ad7-4722-8ad6-b6ac47b4b3d2.png)
-# print("Hello everyone, I'm Eli-ezer Ramirez")   <sub> *Blog Personal* </sub>
+
+![banner_principal_github](https://user-images.githubusercontent.com/83837915/180125740-23dadebb-366b-4945-8cda-0fc807376856.png)
 
 <!-- here are information that who i am-->
+<sub> *Blog Personal* </sub>
 ### Who am I?
-
 
 ```python
 
