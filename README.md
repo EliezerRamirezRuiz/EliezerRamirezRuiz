@@ -1,4 +1,4 @@
-![banner principal]("Banner de twitch Stream Amarillo Negro.png")
+![banner principal]("../Banner de twitch Stream Amarillo Negro.png")
 # print("Hello everyone, I'm Eli-ezer Ramirez")   <sub> *Blog Personal* </sub>
 
 <!-- here are information that who i am-->
