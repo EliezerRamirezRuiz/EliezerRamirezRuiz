@@ -1,8 +1,9 @@
-![banner principal]("../Banner de twitch Stream Amarillo Negro.png")
+![banner_eli-ezer](https://user-images.githubusercontent.com/83837915/180123868-c13208a0-7ad7-4722-8ad6-b6ac47b4b3d2.png)
 # print("Hello everyone, I'm Eli-ezer Ramirez")   <sub> *Blog Personal* </sub>
 
 <!-- here are information that who i am-->
 ### Who am I?
+
 
 ```python
 
