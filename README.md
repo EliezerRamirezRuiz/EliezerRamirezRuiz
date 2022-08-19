@@ -27,8 +27,8 @@ def introduce():
 ## Knowledge
 <!-- what i am learning -->
 ### I have knowledge about frontend and backend
->frontend: (HTML, CSS, JavaScript)
->backend: (Django, Database{sqlite3})
+> - frontend: (HTML, CSS, JavaScript)
+> - backend: (Django, Database{sqlite3})
 
 <!-- Free resources -->
 ### Free Bootcamp 
