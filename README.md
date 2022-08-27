@@ -30,6 +30,8 @@ def introduce():
 > - frontend: (HTML, CSS, JavaScript)
 > - backend: (Django, Database{sqlite3})
 
+## Look about my projects
+> [GitHub Wiki](https://github.com/EliezerRamirezRuiz/projectsPhotos.wiki.git)
 <!-- Free resources -->
 ### Free Bootcamp 
 - link [OpenBootCamp](https://campus.open-bootcamp.com/)
