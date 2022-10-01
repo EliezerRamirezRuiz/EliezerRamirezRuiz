@@ -3,44 +3,33 @@
 
 <!-- here are information that who i am-->
 <sub> *Blog Personal* </sub>
-### About me?
+### 
 
 ```python
+class User():
+    def __init__(self, name, age, country):
+        self.name = name 
+        self.age = age
+        self.country = country
+    
+    def __str__(self):
+        return print(f'Hello mi name is {self.name}, I am {self.age} and I live in {self.country}')
 
-def introduce():
-    #var
-    age = 20
-    full_name = f"Eli-ezer Reuven Ramirez Ruiz"
-    pronoun = "Eli\n"
-    country = "Santiago de Chile, commune Puente Alto (🇨🇱)\n"
-    occupation = f"computer engineer student at Duoc UC 💻"
-    #paragragh
-    first_Line = f"I am  {full_name} with {age} years old\n"
-    second_line = f"Pronouns: {pronoun}"
-    thrid_line = f"I live in: {country}"
-    fourth_line = f"I'm {occupation}"
-    #var is going to return 
-    message = print(f"{fist_line}{second_line}{thid_line}{fourth_line}
-    return message
+developer = User('Eli-ezer',21,'Chile')
+developer.__str__()
 ```
 
 ## Knowledge
-<!-- what i am learning -->
-### I have knowledge about frontend and backend
-> - frontend: (HTML, CSS, JavaScript)
-> - backend: (Django, Database{sqlite3})
+<!-- Dominion -->
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=python,linux,django,flask,html,js,css,bootstrap)](https://skillicons.dev)
 
-## Look about my projects
-> [GitHub Wiki](https://github.com/EliezerRamirezRuiz/projectsPhotos.wiki.git)
-<!-- Free resources -->
-### Free Bootcamp 
-- link [OpenBootCamp](https://campus.open-bootcamp.com/)
-- Coming soon more...
+### Idle
+[![Idle](https://skillicons.dev/icons?i=vscode,vim)](https://skillicons.dev)
 
-<!-- Fun fact about me -->
-### Fun fact:
-- I'm a Python lover 
-- I love electronic music
+
+## Social networks
+[![Social networks](https://skillicons.dev/icons?i=instagram,twitter,linkedin)](https://skillicons.dev)
 
 <!--Copyright -->
 ©️ Eli-ezer Ramirez 2022
