@@ -1,8 +1,6 @@
 
-![banner_principal_github](https://user-images.githubusercontent.com/83837915/180125740-23dadebb-366b-4945-8cda-0fc807376856.png)
-
 <!-- here are information that who i am-->
-<sub> *Blog Personal* </sub>
+<sub> *Developer & Student* </sub>
 ### 
 
 ```python
