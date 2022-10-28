@@ -1,21 +1,11 @@
 
 <!-- here are information that who i am-->
 <sub> *Developer & Student* </sub>
-### 
 
 ```python
-class User():
-    def __init__(self, name, age, country):
-        self.name = name 
-        self.age = age
-        self.country = country
-    
-    def __str__(self):
-        return print(f'Hello mi name is {self.name}, I am {self.age} and I live in {self.country}')
-
-developer = User('Eli-ezer',21,'Chile')
-developer.__str__()
+    Print(' Hello everyone from Chile ;3;')
 ```
+
 
 ## Knowledge
 <!-- Dominion -->
