@@ -6,13 +6,8 @@
     Print(' Hello everyone from Chile ')
 ```
 
- >  I am Eli-ezer Reuven Ramirez Ruiz and I am 21 years old. 
- >  I am passionate about computers, work and learn. 
- >  I am a student of Duoc UC in the career of Computer Engineering. 
- >  I had studied in CodigoFacilito, OpenBootcamp, Freecodecamp platforms. 
- >  I am user of (windows/Ubuntu) and Programmer focused on web programming with python and java.
- >  I have experience with Html5, Css3, JavaScript and Angular.
- >  I consider myself a good learner, hard worker and committed to what I propose.
+> <i>I am Eli-ezer Ramirez and I'm twenty one years old 
+</i>
 
 
 ## My kit Development
