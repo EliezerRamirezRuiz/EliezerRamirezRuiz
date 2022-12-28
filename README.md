@@ -3,7 +3,11 @@
 <sub> *Developer & Student* </sub>
 
 ```python
-    Print(' Hello everyone from Chile ')
+    import logging
+    
+    logging.basicConfig(level=logging.info)
+    
+    logging.INFO('Hello everyone from Chile')
 ```
 
 > <i>I am Eli-ezer Ramirez and I'm twenty one years old 
