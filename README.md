@@ -4,10 +4,10 @@
 
 ```python
     import logging
-    logging.basicConfig(level=logging.info)
+    logging.basicConfig(level=logging.INFO)
     
     
-    logging.INFO('Hello everyone from Chile')
+    logging.info('Hello everyone from Chile')
 ```
 
 > <i>I am Eli-ezer Ramirez and I'm twenty one years old 
