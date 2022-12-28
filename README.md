@@ -4,8 +4,8 @@
 
 ```python
     import logging
-    
     logging.basicConfig(level=logging.info)
+    
     
     logging.INFO('Hello everyone from Chile')
 ```
