@@ -10,8 +10,9 @@
     logging.info('Hello everyone from Chile')
 ```
 
-> <i>I am Eli-ezer Ramirez and I'm twenty one years old, </br>
-Python developer and computer engineer </i>
+> <i>I am Eli-ezer Ramirez and I'm twenty one years old, I'm from santiago de Chile. </br>
+I am Python developer and computer engineer, I love data science, web development and machine learning. </br>
+</i>
 
 
 
