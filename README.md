@@ -1,5 +1,5 @@
 
-# Full Stack Developer 
+# Programmer Analyst
 <sub> *Developer & Student* </sub>
 
 ```python
@@ -7,15 +7,20 @@
     logging.basicConfig(level=logging.INFO)
     
     
-    logging.info('Hello everyone from Chile')
+    logging.info('Hello everyone, I wish you a good year and may God bless you too.')
 ```
 
-> <i>I am Eli-ezer Ramirez and I'm twenty one years old, I'm from santiago de Chile. </br>
-I am Python developer and computer engineer, I love data science, web development and machine learning. </br>
+## About me 
+<i> I am Eli-ezer Ramirez and I'm twenty one years old.</br>
+I was born in Santiago de Chile, maybe I'll go to Canada coming soon.</br>
+I'm Developer with skills Front End and Back End.</br>
+My Favorite Lenguages are Python, Java anda Javascript.</br>
+My Favorites Frameworks are Svelte, Flask and Spring Boot.
 </i>
 
+## Promises
+<i> I want to be a Content Creator, and get a job as Developer. </i>
 
-
-
+</br>
 ©️ Eli-ezer Ramirez - 2023
 
