@@ -12,7 +12,7 @@
 
 ## About me 
 <i> I am Eli-ezer Ramirez and I'm twenty one years old.</br>
-I was born in Santiago de Chile, maybe I'll go to Canada coming soon.</br>
+I was born in Santiago de Chile</br>
 I'm Developer with skills Front End and Back End.</br>
 My Favorite Lenguages are Python, Java anda Javascript.</br>
 My Favorites Frameworks are Svelte, Flask and Spring Boot.
