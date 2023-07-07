@@ -1,20 +1,31 @@
-# Programmer Analyst 
-<sub> *Developer & Student* </sub>
+<h1>Programmer Analyst</h1>
+<sub> Junior Developer & Student On Progress</sub>
 
 
-## About me 
-<i> 
-    I'm Eli-ezer Ramirez Ruiz and Love progamming and I like this life style.
-    I love every second when I'm typing code, have that feel when you have the power.
-    I'm twenty one years old and I'm studying at Duoc UC to be Computer Engineer,
-    I'm from Chile and I have many hopes to be a better programmer into this world 
-    and contribute a lot in Open Source.     
-</i>
+
+<h3>About me</h3>
+<ul> 
+    <li>My name is <strong>Eli-ezer Ramirez</strong></li> 
+    <li>I am 21 years old</li>
+    <li>I'm from Santiago, Chile.</li>
+    <li>I have finished analyst programmer technician</li>
+    <li>I am still studying computer engineering</li>
+    <li>I look forward to being part of Open Source</li>     
+</ul>
+
 
 </br>
 
-## Promises
-<i> Learned well Angular and get a job </i>
+## Projects
+<ul>
+    <li>E-commerce SuplexShop</li>
+    <li>Bot Discord (Edelpa S.A)</li>
+    <li>Microservices api db (Springboot)</li>
+    <li>Microservices api svc (Springboot)</li>
+    <li>Microservices api bff (Springboot)</li>
+    <li>Api Flask</li>
+    <li>Creator QR</li>
+</ul>
 
 </br>
 
