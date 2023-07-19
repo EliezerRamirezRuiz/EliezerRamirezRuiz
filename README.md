@@ -18,13 +18,18 @@
 
 ## Projects
 <ul>
-    <li>E-commerce SuplexShop</li>
-    <li>Bot Discord (Edelpa S.A)</li>
-    <li>Microservices api db (Springboot)</li>
-    <li>Microservices api svc (Springboot)</li>
-    <li>Microservices api bff (Springboot)</li>
-    <li>Api Flask</li>
-    <li>Creator QR</li>
+    <h5>Finished</h5>
+    <li>E-commerce SuplexShop - made with Django</li>
+    <li>Bot Discord (Edelpa S.A) - made with Discord.py</li>
+    <li>Microservices api db - made with SpringBoot</li>
+    <li>Microservices api svc - made with SpringBoot</li>
+    <li>Microservices api bff - made with SpringBoot</li>
+    <li>First Api - made with Flask</li>
+</ul>
+
+<ul>
+    <h5>On Progress</h5>
+    <li>Api Ecommerce - made with NestJs</li>
 </ul>
 
 </br>
