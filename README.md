@@ -6,9 +6,8 @@
 <h3>About me</h3>
 <ul> 
     <li>My name is <strong>Eli-ezer Ramirez</strong></li> 
-    <li>I am 21 years old</li>
     <li>I'm from Santiago, Chile.</li>
-    <li>I have finished analyst programmer technician</li>
+    <li>I'm analyst programmer technician</li>
     <li>I am still studying computer engineering</li>
     <li>I look forward to being part of Open Source</li>     
 </ul>
