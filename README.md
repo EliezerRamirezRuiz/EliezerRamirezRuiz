@@ -8,7 +8,7 @@
     <li>My name is <strong>Eli-ezer Ramirez</strong></li> 
     <li>I'm from Santiago, Chile.</li>
     <li>I'm analyst programmer technician</li>
-    <li>I am still studying computer engineering</li>
+    <li>I am studying computer engineering</li>
     <li>I look forward to being part of Open Source</li>     
 </ul>
 
