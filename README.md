@@ -1,36 +1,34 @@
 <h1>Programmer Analyst</h1>
-<sub> Junior Developer & Student On Progress</sub>
+<sub> Junior Developer & Student computer engineering On Progress</sub>
 
 
 
-<h3>About me</h3>
+<h2>About me</h2>
 <ul> 
     <li>My name is <strong>Eli-ezer Ramirez</strong></li> 
-    <li>I'm from Santiago, Chile.</li>
-    <li>I'm analyst programmer technician</li>
-    <li>I am studying computer engineering</li>
-    <li>I look forward to being part of Open Source</li>     
+    <li>I'm from Santiago de Chile</li>
+    <li>I'm analyst programmer</li>
+    <li>I have an organization where I upload my projects</li>     
 </ul>
 
 
 </br>
 
-## Projects
+<h2>Projects</h2>
+<p>Here are my projects, it was made for me and I try to build it the best way</p>
+<h3>Finished</h3>
 <ul>
-    <h5>Finished</h5>
-    <li>E-commerce SuplexShop - made with Django</li>
-    <li>Bot Discord (Edelpa S.A) - made with Discord.py</li>
-    <li>Microservices api db - made with SpringBoot</li>
-    <li>Microservices api svc - made with SpringBoot</li>
-    <li>Microservices api bff - made with SpringBoot</li>
-    <li>First Api - made with Flask</li>
+    <li>Mail Sender [ <a href="https://github.com/Codempanada/email-sender">Public Repository</a> ]</li>
+    <li>E-commerce SuplexShop [ <a href="/">Private Repository</a> ]</li>
+    <li>Bot Discord [ <a href="https://github.com/EliezerRamirezRuiz/Bot-edelpa">Public Repository</a> ]</li>
+    <li>Microservices api db [ <a href="https://github.com/EliezerRamirezRuiz/db-productos">Public Repository</a> ]</li>
+    <li>Microservices api svc [ <a href="https://github.com/EliezerRamirezRuiz/svc-productos">Public Repository</a> ]</li>
+    <li>Microservices api bff [ <a href="https://github.com/EliezerRamirezRuiz/bff-productos">Public Repository</a> ]</li>
 </ul>
-
+<h3>Coming Soon</h3>
 <ul>
-    <h5>On Progress</h5>
-    <li>Api Ecommerce - made with NestJs</li>
+    <li>Python Framework [ <a href="/">On Progress</a> ]</li>
 </ul>
-
 </br>
 
 ## Lenguages
