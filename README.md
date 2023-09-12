@@ -6,6 +6,7 @@
 <h2>About me</h2>
 <ul> 
     <li>My name is <strong>Eli-ezer Ramirez</strong></li> 
+    <li>Owner <a href="https://github.com/Codempanada">Codempanada</a></li>
     <li>I'm from Santiago de Chile</li>
     <li>I'm analyst programmer</li>
     <li>I have an organization where I upload my projects</li>     
