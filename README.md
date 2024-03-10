@@ -1,5 +1,5 @@
 <h1>Programmer Analyst</h1>
-<sub> Junior Developer & Student computer engineering On Progress</sub>
+<sub> Developer & Student computer engineering On Progress</sub>
 
 
 
