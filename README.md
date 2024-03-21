@@ -2,8 +2,21 @@
 <h1>Programmer Analyst</h1>
 <sub> Developer & Student computer engineering On Progress</sub>
 
+</br>
+</br>
 
-
+<span style="display: flex; flex-direction: column; gap:15px; margin: 30px">
+ <p>
+    Hello everyone, ¿what's going on?. 
+ </p>
+<p style="">
+    I'm developer with 1+ year experience developmint applications web,
+    lover backend development, I may like to say the same with frontend 
+    but it isn't my strengh.
+ </p>
+<p>
+</p>
+</span>
 <h2>About me</h2>
 <ul>
     <li>Owner <a href="https://github.com/Codempanada">Codempanada</a></li>
@@ -13,7 +26,7 @@
 
 </br>
 
-<h2> Lenguages</h2>
+<h2>Lenguages</h2>
 
 ![lenguages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EliezerRamirezRuiz&theme=github_dark)
 
