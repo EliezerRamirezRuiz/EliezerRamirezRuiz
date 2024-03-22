@@ -5,11 +5,11 @@
 </br>
 </br>
 
-<span style="display: flex; flex-direction: column; gap:15px; margin: 30px">
+<span style="display: flex; flex-direction: column; gap:15px; margin: 30px; width: 400px;">
  <p>
     Hello everyone, ¿what's going on?. 
  </p>
-<p style="">
+<p style="color:red">
     I'm developer with 1+ year experience developmint applications web,
     lover backend development, I may like to say the same with frontend 
     but it isn't my strengh.
