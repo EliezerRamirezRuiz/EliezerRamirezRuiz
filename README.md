@@ -2,25 +2,16 @@
 # Computer engineering 
 <sub> Developer Frontend & Backend </sub>
 
-> Hello everyone, ¿what's going on?. 
-  I am a developer with 1+ year of experience developing web applications,
-  lover of backend development, I would like to say the same with frontend 
-  but it's not my forte. Here I am trying to acquire new skills and 
-  apply in my current day, I hope soon to show my skills to the world and 
-  skills and shut it up.
+<p>Hello everyone, ¿what's going on?. I am a developer with 1+ year of experience developing web applications, </br>
+lover of backend development, I would like to say the same with frontend but it's not my forte. Here I am trying to acquire new skills and </br>
+apply in my current day, I hope soon to show my skills to the world and skills and shut it up.
+</p>
 
-
-## About me
-- Owner [Codempanada](https://github.com/Codempanada)
-- I'm from Santiago de Chile
 
 ## Lenguages
-
 ![lenguages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EliezerRamirezRuiz&theme=github_dark)
 
 ## Commit and contributions
-
 ![stadistics](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EliezerRamirezRuiz&theme=github_dark)
 
-©️ Eli-ezer Ramirez - 2023
-
+©️ Eli-ezer Ramirez - 2024
