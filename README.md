@@ -2,11 +2,28 @@
 # Computer engineering 
 <sub> Developer Frontend & Backend </sub>
 
-<p>Hello everyone, ¿what's going on?. I am a developer with 1+ year of experience developing web applications, </br>
-lover of backend development, I would like to say the same with frontend but it's not my forte. Here I am trying to acquire new skills and </br>
-apply in my current day, I hope soon to show my skills to the world and skills and shut it up.
-</p>
+Developer with 1+ year about experience of Web Applicactions such Frontend and Backend,
+very often looking for experiment and expand to anothers areas like DevOps, Support and owner of libraries.
+Learning Machine Learning, Deep Learning and Data Science, step by step. Excite, Proactive and Autonomous
+Developer also a try of freelancer in my spare times. Hope gives all energy for reach my goals.
 
+Development in Backend:
+- Frameworks:
+    - Python:
+      -  Flask
+      -  Django
+      -  FastAPI
+    - NodeJS:
+      - NestJS
+      - Express
+     
+Development in Frontend:
+- Frameworks:
+  - Angular >=17
+  - Astro
+  - Svelte    
+
+"I hope to give all my energy all the time to achieve my goals."
 
 ## Lenguages
 ![lenguages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EliezerRamirezRuiz&theme=github_dark)
