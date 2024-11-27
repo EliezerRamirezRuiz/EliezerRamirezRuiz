@@ -2,28 +2,17 @@
 # Computer engineering 
 <sub> Developer Frontend & Backend </sub>
 
-Developer with 1+ year about experience of Web Applicactions such Frontend and Backend,
-very often looking for experiment and expand to anothers areas like DevOps, Support and owner of libraries.
-Learning Machine Learning, Deep Learning and Data Science, step by step. Excite, Proactive and Autonomous
-Developer also a try of freelancer in my spare times. Hope gives all energy for reach my goals.
+Developer with more than 1 year of experience, focused on web development with python and typescript. 
+I am currently working as a programmer of Unidad de Analisis Financiero (UAF) from Chile, soon I will be an engineer :). 
+I use a lot of frameworks but the ones I currently use the most are Django, fastapi, Angular Astro and React. 
+For the future I would like to continue specializing and improving my skills to offer the best of the best.
 
-Development in Backend:
 - Frameworks:
-    - Python:
-      -  Flask
-      -  Django
-      -  FastAPI
-    - NodeJS:
-      - NestJS
-      - Express
-     
-Development in Frontend:
-- Frameworks:
+  - Django
+  - FastAPI
   - Angular >=17
   - Astro
-  - Svelte    
-
-"I hope to give all my energy all the time to achieve my goals."
+  - React
 
 ## Lenguages
 ![lenguages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EliezerRamirezRuiz&theme=github_dark)
